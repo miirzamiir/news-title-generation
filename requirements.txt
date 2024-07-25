@@ -1,3 +1,9 @@
 hazm
 numpy
 pandas
+datasets
+bert-score
+rouge-score
+nltk
+transformers
+sentencepiece
